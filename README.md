@@ -1,6 +1,6 @@
 # BlackCobble
 
-A Programing language that mixes Python and Java
+A simple programming language for gui
 
 ## License
 
