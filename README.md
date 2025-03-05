@@ -1,6 +1,6 @@
 # BlackCobble
 
-Status: ![Status](./projectData/status.png){width=100 height=25 style="vertical-align:middle"}
+<img alt="Status" src="./projectData/status.png" width="100" height="25">
 
 A simple programming language for gui
 
