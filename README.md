@@ -8,6 +8,8 @@ A simple programming language for gui
 
 Before copying any part of this project, please read the [LICENSE](./LICENSE) file to understand the terms and conditions.
 
+## How to use
+
 ## Made by
 
 Head: [Flurop](https://github.com/Flurop)
