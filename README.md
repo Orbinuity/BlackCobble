@@ -1,6 +1,6 @@
 # BlackCobble
 
-![Condition](./projectData/status.png)
+<img src="./projectData/status.png" width="100" height="100">
 
 A simple programming language for gui
 
