@@ -1,6 +1,6 @@
 # BlackCobble
 
-[<img alt="Status" src="https://raw.githubusercontent.com/Orbinuity/.github/main/status/not_done.png" width="100" height="25">](https://orbinuity.github.io/Orbinuity/projects.html)
+[<img alt="Status" src="https://raw.githubusercontent.com/Orbinuity/.github/main/status/not_done.png" width="100" height="25">]()
 
 A simple programming language for gui
 
