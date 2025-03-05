@@ -1,7 +1,6 @@
 # BlackCobble
 
-Status:
-<img alt="Status" src="./projectData/status.png" width="100" height="25">
+<a>Status: <img alt="Status" src="./projectData/status.png" width="100" height="25"></a>
 
 A simple programming language for gui
 
