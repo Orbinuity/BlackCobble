@@ -1,6 +1,6 @@
 # BlackCobble
 
-Status: ![Status](./projectData/status.png#gh-light-mode-only){width=100 height=25 style="vertical-align:middle"}
+Status: ![Status](./projectData/status.png){width=100 height=25 style="vertical-align:middle"}
 
 A simple programming language for gui
 
