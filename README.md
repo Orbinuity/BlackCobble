@@ -1,6 +1,6 @@
 # BlackCobble
 
-[<img alt="Status" src="./projectData/status.png" width="100" height="25">](https://orbinuity.github.io/Orbinuity/projects.html){:target="_blank"}
+<a href="https://orbinuity.github.io/Orbinuity/projects.html" target="_blank"><img alt="Status" src="./projectData/status.png" width="100" height="25"></a>
 
 A simple programming language for gui
 
