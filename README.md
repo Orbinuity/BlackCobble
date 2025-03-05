@@ -1,9 +1,6 @@
 # BlackCobble
 
-<div style="display: flex; align-items: center;">
-<a>Status: </a>
 <img alt="Status" src="./projectData/status.png" width="100" height="25">
-</div>
 
 A simple programming language for gui
 
